@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.ibm.DictFirstName","ja-JP-FirstName","uima.tt.DictionaryEntryAnnotation","ja-JP-FirstName","COL1,POS1"

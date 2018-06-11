@@ -1,0 +1,25 @@
+"COL1","COL2"
+"Bad	1001Bade	1001Bades	1001Bads	1001Bäder	1111Bädern	1001","N"
+"Berg	1111Berge	1111Bergen	1001Berges	1111Bergs	1001","N"
+"Burg	1001Burgen	1111","N"
+"Freistaat	1000Freistaaten	1000Freistaates	1001Freistaats	1111","N"
+"Groß	1111","N"
+"Kr.	1111","N"
+"Kreis	1111Kreise	1001Kreisen	1001Kreises	1001","N"
+"Landkreis	1000Landkreise	1000Landkreisen	1000Landkreises	1001","N"
+"Nord	1110Norde	1001Norden	1001Nordes	1001Nords	1001","N"
+"Nordost	1111Nordosts	1001","N"
+"Nordwest	1111Nordweste	1001Nordwesten	1001Nordwestes	1001Nordwests	1001","N"
+"Ober	1110Obern	1001Obers	1001","N"
+"Ost	1110Oste	1000Osten	1111Ostes	1000Osts	1001","N"
+"Regierungsbezirk	1000Regierungsbezirke	1000Regierungsbezirken	1000Regierungsbezirkes	1000Regierungsbezirks	1000","N"
+"Republik	1111Republiken	1111","N"
+"Schloss	1111Schlosse	1001Schlosses	1001Schlösser	1111Schlössern	1001","N"
+"Stadt	1111Städte	1111Städten	1001","N"
+"Süd	1110Süde	1001Süden	1111Südes	1001Süds	1001","N"
+"Südost	1111Südoste	1001Südosten	1111Südostes	1001Südosts	1001","N"
+"Südwest	1111Südweste	1001Südwesten	1001Südwestes	1001Südwests	1001","N"
+"Universität	1001Universitäten	1001Universitäts	0110","N"
+"Unter	1111Untern	1001Unters	1001","N"
+"West	1110Weste	1001Westen	1111Westes	1001Wests	1001","N"
+"Zentral	1111","N"

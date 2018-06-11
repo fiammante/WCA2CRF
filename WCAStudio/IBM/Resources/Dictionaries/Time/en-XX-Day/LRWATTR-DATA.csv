@@ -1,0 +1,3 @@
+"COLUMNNAME","COLUMNTITLE","COLUMNTYPE","MATCH","POSSIBLEVALUES","MAXLENGTH","GLOSS","FIELD","DEFAULT","DEFAULTIFMISSING","VALIDATE","UIMAFEATURE","UIMADESCRIPTION","COLUMNORDER","COLUMNWIDTH"
+"COL1","en-XX-Day","NormalForm","false","","30000","CutPasteGloss","Lemma","1101","","notnull","","","1","130",
+"COL2","Part of Speech","Keyword","false","X=Unknown,P=Pronoun,V=Verb,N=Noun,J=Adjective,A=Adverb,R=Adposition,I=Interjection,C=Conjunction,D=Determiner","255","FeatureSetGloss","WordClass","N","","","","","2","130",

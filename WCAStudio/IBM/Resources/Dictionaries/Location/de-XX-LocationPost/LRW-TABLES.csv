@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.ibm.DictLocationPost","LocationPost","uima.tt.DictionaryEntryAnnotation","de-XX-LocationPost","COL1,COL2"

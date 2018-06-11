@@ -1,0 +1,3 @@
+"COLUMNNAME","COLUMNTITLE","COLUMNTYPE","MATCH","POSSIBLEVALUES","MAXLENGTH","GLOSS","FIELD","DEFAULT","DEFAULTIFMISSING","VALIDATE","UIMAFEATURE","UIMADESCRIPTION","COLUMNORDER","COLUMNWIDTH"
+"COL1","ja-JP-FirstName","NormalForm","false","","30000","LemmaGloss","Lemma","1000","","notnull","","","1","100",
+"POS1","Part of Speech","Keyword","false","19=Noun,140=Proper Noun (Last Name),141=Proper Noun (First Name),146=Proper Noun (Person Name),142=Proper Noun (Organization),144=Proper Noun (Place Name),145=Proper Noun (Other),23=Common Prefix,24=Common Suffix","255","FeatureSetGloss,JaMorphGloss,JaGramSetGloss","JAWordClass,Codes,Value","141","","","","","2","130",

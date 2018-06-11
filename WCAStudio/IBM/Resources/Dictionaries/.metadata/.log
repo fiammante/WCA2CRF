@@ -1,0 +1,18 @@
+!SESSION 2009-01-12 14:20:41.765 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.5.0 IBM J9 2.3 Windows XP x86-32 j9vmwi3223-20071007 (JIT enabled)
+J9VM - 20071004_14218_lHdSMR
+JIT  - 20070820_1846ifx1_r8
+GC   - 200708_10
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -Xmx1000m
+Command-line arguments:  -os win32 -ws win32 -arch x86 -clean -Xmx1000m
+
+!ENTRY org.eclipse.ui 4 4 2009-01-12 14:21:36.531
+!MESSAGE Part already exists in page layout: org.eclipse.ui.console.ConsoleView.
+
+!ENTRY org.eclipse.ui 4 4 2009-01-12 14:21:36.531
+!MESSAGE Part already exists in page layout: org.eclipse.ui.views.BookmarkView.
+
+!ENTRY org.eclipse.ui 4 4 2009-01-12 14:21:36.531
+!MESSAGE Part already exists in page layout: org.eclipse.ui.views.ProgressView.

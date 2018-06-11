@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>UIMA2CRF</groupId>
+  <artifactId>UIMA2CRF</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>UIMA2CRF</name>
+  <description>Sample UIMA plugin for WEX/WCA to integrate Mallet CRF</description>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.7.0</version>
+        <configuration>
+          <source>1.7</source>
+          <target>1.7</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>cc.mallet</groupId>
+  		<artifactId>mallet</artifactId>
+  		<version>2.0.8</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.apache.uima</groupId>
+  		<artifactId>uimafit-core</artifactId>
+  		<version>2.4.0</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.apache.uima</groupId>
+  		<artifactId>uimaj-core</artifactId>
+  		<version>2.10.2</version>
+  	</dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="annotation">
+	<item value="en" key="language"/>
+	<item value="1528702814650" key="lastModified"/>
+	<item value="4" key="version"/>
+	<list key="steps">
+		<item value="langid.0"/>
+		<item value="languageware.1"/>
+		<item value="afst.2"/>
+		<item value="afst.3"/>
+		<item value="afst.4"/>
+		<item value="afst.5"/>
+		<item value="custom.6"/>
+		<item value="typecleanup.7"/>
+	</list>
+	<section name="exportPearData">
+		<item value="false" key="cca"/>
+		<item value="" key="outputPath"/>
+		<item value="" key="pearId"/>
+		<item value="" key="pearName"/>
+		<item value="0" key="ccaExportDataLastUsed"/>
+		<item value="1" key="ccaExportDataCount"/>
+		<section name="ccaExportData.0">
+			<item value="" key="ccaCollection"/>
+			<item value="-1" key="ccaLastExport"/>
+			<item value="" key="ccaPearName"/>
+			<item value="true" key="ccaRestartIndexer"/>
+			<item value="false" key="ccaRebuildIndex"/>
+			<item value="true" key="ccaAssociatePEAR"/>
+			<item value="" key="ccaConfig"/>
+			<section name="ccaSearchFields">
+				<item value="SEARCH" key="ccaCollectionType"/>
+				<item value="0" key="searchCount"/>
+			</section>
+		</section>
+	</section>
+	<section name="languageware.1">
+		<list key="dictPaths.7">
+			<item value="${lw_lex_dictionary_path:en}"/>
+			<item value="${lw_oov_dictionary_path:en}"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Cars}/mul-XX-CarBrand.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/LawEnforcement}/en-XX-Department.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/LawEnforcement}/en-XX-OffenceName.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/People}/en-XX-FirstName.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/People}/en-XX-Title.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Time}/en-XX-Ordinals.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Time}/en-XX-Day.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Time}/en-XX-Month.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/LawEnforcement}/en-XX-AliasTrigger.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Acronyms}/mul-XX-Acronym.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/LawEnforcement}/en-XX-DOBTrigger.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Location}/en-US-StateAbbreviation.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/People}/en-XX-PersonTrigger.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Location}/en-XX-LocationPostTrigger.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Location}/en-XX-Location.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/Location}/en-XX-LocationPreTrigger.dic"/>
+			<item value="${workspace_loc:/IBM/Resources/Dictionaries/LawEnforcement}/en-XX-PersonProfile.dic"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value="default"/>
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ro"/>
+			<item value="ru"/>
+			<item value="sk"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+		<list key="languages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ro"/>
+			<item value="ru"/>
+			<item value="sk"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="DefaultLanguage"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<section name="posTagger.24">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.22">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.23">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="breakRules.3">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.2">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.5">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.4">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.1">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.0">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.11">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.12">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.10">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.19">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.17">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.18">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.15">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.16">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.13">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.14">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="posTagger.1">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.0">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.10">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.3">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.2">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.5">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.4">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.7">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.6">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.9">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.8">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="breakRules.22">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.23">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.20">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.21">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.7">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.6">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.9">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="posTagger.19">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="breakRules.8">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="posTagger.17">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.18">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.15">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.16">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.13">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.14">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.11">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="breakRules.24">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="posTagger.12">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.20">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+		<section name="posTagger.21">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
+	</section>
+	<section name="afst.3">
+		<list key="rulePaths.7">
+			<item value="${workspace_loc:/IBM/Resources/Parsing Rules/Addresses}/en-US-Addresses.jar"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+		<list key="extraConfigValue3">
+			<item value="Token,uima.tt.TokenAnnotation"/>
+			<item value="Sentence,uima.tt.SentenceAnnotation"/>
+			<item value="Word,uima.tt.TokenAnnotation"/>
+			<item value="MWU,com.ibm.dlt.uimatypes.MWU"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue5">
+			<item value="2400,characters,uima.tt.SentenceAnnotation,firstMatch"/>
+		</list>
+		<list key="extraConfigValue6">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="SofaNames"/>
+			<item value="NameSpace"/>
+			<item value="IdFeature"/>
+			<item value="MapAnnotationNames"/>
+			<item value="FstMaxLevel"/>
+			<item value="LongTextParameters"/>
+			<item value="TolerateMissingTypes"/>
+			<item value="Focus"/>
+			<item value="RecursiveEngine"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="uima.tt"/>
+		</list>
+		<list key="ruleLanguages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ro"/>
+			<item value="ru"/>
+			<item value="sk"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+	</section>
+	<section name="afst.2">
+		<list key="rulePaths.7">
+			<item value="${workspace_loc:/IBM/Resources/Parsing Rules/Dates}/en-XX-Dates.jar"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+		<list key="extraConfigValue3">
+			<item value="Token,uima.tt.TokenAnnotation"/>
+			<item value="Sentence,uima.tt.SentenceAnnotation"/>
+			<item value="Word,uima.tt.TokenAnnotation"/>
+			<item value="MWU,com.ibm.dlt.uimatypes.MWU"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue5">
+			<item value="2400,characters,uima.tt.SentenceAnnotation,firstMatch"/>
+		</list>
+		<list key="extraConfigValue6">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="SofaNames"/>
+			<item value="NameSpace"/>
+			<item value="IdFeature"/>
+			<item value="MapAnnotationNames"/>
+			<item value="FstMaxLevel"/>
+			<item value="LongTextParameters"/>
+			<item value="TolerateMissingTypes"/>
+			<item value="Focus"/>
+			<item value="RecursiveEngine"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="uima.tt"/>
+		</list>
+		<list key="ruleLanguages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ro"/>
+			<item value="ru"/>
+			<item value="sk"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+	</section>
+	<section name="afst.5">
+		<list key="rulePaths.7">
+			<item value="${workspace_loc:/IBM/Resources/Parsing Rules/Cars}/licenceplates.jar"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+		<list key="extraConfigValue3">
+			<item value="Token,uima.tt.TokenAnnotation"/>
+			<item value="Sentence,uima.tt.SentenceAnnotation"/>
+			<item value="Word,uima.tt.TokenAnnotation"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue5">
+			<item value="2400,characters,uima.tt.SentenceAnnotation,firstMatch"/>
+		</list>
+		<list key="extraConfigValue6">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="SofaNames"/>
+			<item value="NameSpace"/>
+			<item value="IdFeature"/>
+			<item value="MapAnnotationNames"/>
+			<item value="FstMaxLevel"/>
+			<item value="LongTextParameters"/>
+			<item value="TolerateMissingTypes"/>
+			<item value="Focus"/>
+			<item value="RecursiveEngine"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="uima.tt"/>
+		</list>
+		<list key="ruleLanguages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ro"/>
+			<item value="ru"/>
+			<item value="sk"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+	</section>
+	<section name="afst.4">
+		<list key="rulePaths.7">
+			<item value="${workspace_loc:/IBM/Resources/Parsing Rules/LawEnforcement}/en-XX-PoliceReports.jar"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+		<list key="extraConfigValue3">
+			<item value="Token,uima.tt.TokenAnnotation"/>
+			<item value="Sentence,uima.tt.SentenceAnnotation"/>
+			<item value="Word,uima.tt.TokenAnnotation"/>
+			<item value="MWU,com.ibm.dlt.uimatypes.MWU"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue5">
+			<item value="2400,characters,uima.tt.SentenceAnnotation,firstMatch"/>
+		</list>
+		<list key="extraConfigValue6">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="SofaNames"/>
+			<item value="NameSpace"/>
+			<item value="IdFeature"/>
+			<item value="MapAnnotationNames"/>
+			<item value="FstMaxLevel"/>
+			<item value="LongTextParameters"/>
+			<item value="TolerateMissingTypes"/>
+			<item value="Focus"/>
+			<item value="RecursiveEngine"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="uima.tt"/>
+		</list>
+		<list key="ruleLanguages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ro"/>
+			<item value="ru"/>
+			<item value="sk"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+	</section>
+	<section name="langid.0">
+		<item value="2" key="langIdType"/>
+		<item value="" key="userdictFallbackLanguage"/>
+		<item value="" key="dictPath"/>
+		<item value="" key="fallbackLanguage"/>
+		<list key="acceptLanguages">
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="false"/>
+		</list>
+		<list key="userdictAcceptLanguages">
+		</list>
+		<list key="extraConfigValue0">
+			<item value="1024"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="MaxCharsToExamine"/>
+			<item value="MaxTopLanguages"/>
+			<item value="UnknownProcessing"/>
+			<item value="UseTheFirstAcceptLangAsFallBack"/>
+			<item value="AcceptOnlyUnspecifiedInputLang"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue2">
+			<item value="true"/>
+		</list>
+	</section>
+	<section name="typecleanup.7">
+		<item value="false" key="showDiscard"/>
+		<item value="false" key="useMultiplierInPear"/>
+		<list key="extraConfigGroups">
+		</list>
+		<list key="discardTypes">
+		</list>
+		<list key="extraConfigNames">
+		</list>
+		<list key="extraConfigDataPathRel">
+		</list>
+	</section>
+	<section name="custom.6">
+		<item value="${workspace_loc:/IBM/Configuration/Annotators}/UIM2CRF.xml" key="taePath"/>
+		<list key="extraConfigGroups">
+			<item value="CRF"/>
+			<item value="CRF"/>
+			<item value="CRF"/>
+			<item value="CRF"/>
+			<item value="CRF"/>
+			<item value="CRF"/>
+		</list>
+		<list key="dataPathList">
+			<item value="${workspace_loc:/IBM/Documents/CRF}"/>
+			<item value="${workspace_loc:/IBM/lib}"/>
+		</list>
+		<list key="classPath">
+			<item value="${workspace_loc:/IBM/lib}/mallet-deps.jar"/>
+			<item value="${workspace_loc:/IBM/lib}/mallet.jar"/>
+			<item value="${workspace_loc:/IBM/lib}/UIMA2CRF-0.0.1-SNAPSHOT.jar"/>
+		</list>
+		<list key="extraConfigValue3">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="com.ibm.en.Carstate"/>
+			<item value="com.ibm.en.Carplate"/>
+		</list>
+		<list key="extraConfigValue5">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigValue0">
+			<item value="CarReg"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="LabelAnnotation"/>
+			<item value="modelfile"/>
+			<item value="train"/>
+			<item value="ParagraphSpan"/>
+			<item value="AnnotationCombination"/>
+			<item value="RemovePrefix"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="crfmodel"/>
+		</list>
+		<list key="extraConfigValue2">
+			<item value="true"/>
+		</list>
+	</section>
+	<section name="ccaSearchFields">
+		<item value="SEARCH" key="ccaCollectionType"/>
+		<item value="0" key="searchCount"/>
+	</section>
+</section>

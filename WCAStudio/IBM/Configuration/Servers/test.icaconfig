@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="cca">
+	<item value="localhost" key="hostName"/>
+	<item value="http" key="protocol"/>
+	<item value="false" key="hostNamesDifferent"/>
+	<item value="8393" key="port"/>
+	<item value="0" key="collections"/>
+	<item value="CCA" key="hostType"/>
+	<item value="8390" key="adminPort"/>
+	<item value="" key="adminHostName"/>
+	<item value="marc.fiammante@fr.ibm.com" key="userId"/>
+	<item value="100000" key="timeout"/>
+</section>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;IBM/pear&apos; to &apos;lib&apos;" description="Rename resource &apos;pear&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="pear" name="lib" stamp="1528700209869" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;IBM/Configuration/Annotators/aeDescriptor.xml&apos; to &apos;UIM2CRF.xml&apos;" description="Rename resource &apos;aeDescriptor.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Configuration/Annotators/aeDescriptor.xml" name="UIM2CRF.xml" stamp="1528701457359" updateReferences="true"/>
+</session>

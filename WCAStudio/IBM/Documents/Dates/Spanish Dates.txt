@@ -1,0 +1,13 @@
+EXAMPLES OF SPANISH DATE FORMATS:
+
+6 de Julio de 2006
+04-03-2005 
+1 de febrero, 2005
+02/04/2008
+El festival se celebrará la semana del 8 al 14 de septiembre. 
+El 7 de agosto de 1987.
+Nacido el 21 de octubre de 1970.
+
+
+ 
+  
