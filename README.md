@@ -1,7 +1,7 @@
 # UIMA2CRF 
 
 UIMACRF Is a UIMA plugin for Watson Content Analytics that use Mallet Conditional Random Field to train on existing documents and then create annotations for new documents using Mallet machine learning http://mallet.cs.umass.edu/  . All of this code can run on premise.
-The source code for the UIMA Custom plugin is in the UIMA2CRF Folder which contains the Eclipse project export. 
+The source code for the UIMA Custom plugin is in the UIMA2CRF Folder which contains the Eclipse project export. Make sure to install the Eclipse UIMA plugin https://uima.apache.org/eclipse-update-site.html
 Change the logic in the Annotation2CRF.java code if you want another labeling logic than a combination of 2 annotations in a paragraph or sentence. 
 
 The component for WCA studio are in the WCA folder. Add these components to the initial WCA Studio IBM project that contains police reports. 
